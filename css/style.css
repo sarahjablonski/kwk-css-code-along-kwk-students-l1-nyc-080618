@@ -1,6 +1,7 @@
 
 .jonSampleClass{
   font-size: 200%;
+  font-family: 'Roboto Condensed', sans-serif;
   border: 10px dotted #B2226E;
   background-color: #84FF82;
 }
