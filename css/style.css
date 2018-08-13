@@ -1,1 +1,6 @@
-/* add CSS class and element and selectors here */
+
+.jonSampleClass{
+  font-size: 200%;
+  border: 10px dotted #DCFF82;
+  background-color: #DCFF82;
+}
