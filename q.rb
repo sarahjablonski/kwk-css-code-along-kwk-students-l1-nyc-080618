@@ -12,4 +12,4 @@ def questions(level)
   end 
 end 
 
-questions("high")
+questions("low")
